@@ -1,30 +1,62 @@
-# Hi there, I'm Salaar Tariq 👋
+# 👋 Hi, I'm Salaar Tariq
 
-## 🔥 GitHub Streak
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SalaarTariq&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
+**AI Engineer | Full Stack Developer | LLM Specialist**
 
-## 📊 GitHub Stats
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SalaarTariq&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-## 💻 Tech Stack
-- **Languages:** Python, JavaScript, C++, Java
-- **AI/ML:** LangChain, RAG, GenAI, Deep Learning, NLP
-- **Frameworks:** React, Node.js, Django, FastAPI, LLMs
-- **Tools:** Git, Docker, GitHub Actions, VS Code
-- **Databases:** MongoDB, PostgreSQL, MySQL
-
-## 🎯 Focus Areas
-- 🤖 Agentic AI & Large Language Models (LLMs)
-- 💬 Chatbots & Voice Agents
-- 📚 Retrieval-Augmented Generation (RAG)
-- 🧠 Deep Learning & Natural Language Processing
-- 🎓 Machine Learning Projects
-
-## 📫 Connect With Me
-- **Email:** [salaar@example.com](mailto:salaar@example.com)
-- **LinkedIn:** [Connect on LinkedIn](https://linkedin.com/in/salaartariq)
-- **Portfolio:** [Visit My Portfolio](https://yourportfolio.com)
+<p align="left">
+  <a href="https://linkedin.com/in/salaartariq"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:salaar@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
 ---
 
-⭐ Feel free to check out my repositories and don't hesitate to reach out!
+### 🚀 About Me
+I am passionate about building intelligent systems using **Agentic AI**, **Large Language Models (LLMs)**, and **Retrieval-Augmented Generation (RAG)**. I specialize in bridging the gap between complex AI research and scalable production applications.
+
+- 🤖 **Current Focus:** Developing advanced Voice Agents and Multi-Agent Systems.
+- 🧠 **Expertise:** Deep Learning, NLP, and GenAI Architecture.
+- 🎓 **Learning:** Scaling LLMs and Fine-tuning for domain-specific tasks.
+
+---
+
+### 💻 Tech Stack
+
+<p align="left">
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JS">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++">
+  <br>
+  <!-- Frameworks & Tools -->
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Nodejs">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI">
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+  <br>
+  <!-- AI/ML -->
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TF">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
+</p>
+
+---
+
+### 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SalaarTariq&show_icons=true&theme=tokyonight&count_private=true" alt="Salaar's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SalaarTariq&theme=tokyonight" alt="GitHub Streak" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SalaarTariq&layout=compact&theme=tokyonight" alt="Top Languages" width="400" />
+</p>
+
+---
+
+<p align="center">
+  <i>"Building the future with one prompt at a time." </i><br>
+  ⭐ <b>Check out my repositories and let's collaborate!</b>
+</p>
