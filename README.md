@@ -14,9 +14,12 @@ I am an emerging **AI Engineer** who has transitioned from traditional manual co
 
 Currently, I am the **Co-Founder of an AI Startup**, where I lead experimentation and product development. I am focused on building and testing various products, identifying high-potential solutions to enhance and scale them to the next level.
 
+Beyond building, I am an avid **Hackathon participant**, always eager to learn, collaborate, and push the boundaries of what's possible with AI.
+
 - 🤖 **Current Focus:** Developing advanced Voice Agents and Multi-Agent Systems.
 - 🧠 **Expertise:** Deep Learning, NLP, and GenAI Architecture.
 - 💡 **Entrepreneurship:** Experimenting with AI products to find the "next big thing."
+- 🏆 **Learning:** Constantly evolving through hackathons and deep-dives into new AI tech.
 
 ---
 
