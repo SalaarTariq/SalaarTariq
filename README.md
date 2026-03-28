@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Salaar Tariq
 
-**AI Engineer | Full Stack Developer | Vibe Code**
+**AI Engineer | Full Stack Developer | Vibe Code Specialist**
 
 <p align="left">
   <a href="https://linkedin.com/in/salaartariq"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -10,7 +10,7 @@
 ---
 
 ### 🚀 About Me
-I am passionate about building intelligent systems using **Agentic AI**, **Large Language Models (LLMs)**, and **Retrieval-Augmented Generation (RAG)**. I specialize in bridging the gap between complex AI research and scalable production applications.
+I am an AI Engineer and Full Stack Developer with a strong focus on **Vibe Code**. I am passionate about building intelligent systems using **Agentic AI**, **Large Language Models (LLMs)**, and **Retrieval-Augmented Generation (RAG)**, with a focus on creating seamless user experiences.
 
 - 🤖 **Current Focus:** Developing advanced Voice Agents and Multi-Agent Systems.
 - 🧠 **Expertise:** Deep Learning, NLP, and GenAI Architecture.
@@ -46,12 +46,7 @@ I am passionate about building intelligent systems using **Agentic AI**, **Large
 ### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SalaarTariq&show_icons=true&theme=tokyonight&count_private=true" alt="Salaar's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SalaarTariq&theme=tokyonight" alt="GitHub Streak" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SalaarTariq&layout=compact&theme=tokyonight" alt="Top Languages" width="400" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SalaarTariq&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
