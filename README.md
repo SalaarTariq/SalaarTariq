@@ -10,11 +10,13 @@
 ---
 
 ### 🚀 About Me
-I am an AI Engineer and Full Stack Developer with a strong focus on **Vibe Code**. I am passionate about building intelligent systems using **Agentic AI**, **Large Language Models (LLMs)**, and **Retrieval-Augmented Generation (RAG)**, with a focus on creating seamless user experiences.
+I am an emerging **AI Engineer** who has transitioned from traditional manual coding to leveraging AI as my primary development partner. I am passionate about building intelligent **Agents**, conversational **Chatbots**, and solving complex **Machine Learning** problems.
+
+Currently, I am the **Co-Founder of an AI Startup**, where I lead experimentation and product development. I am focused on building and testing various products, identifying high-potential solutions to enhance and scale them to the next level.
 
 - 🤖 **Current Focus:** Developing advanced Voice Agents and Multi-Agent Systems.
 - 🧠 **Expertise:** Deep Learning, NLP, and GenAI Architecture.
-- 🎓 **Learning:** Scaling LLMs and building products for domain-specific tasks.
+- 💡 **Entrepreneurship:** Experimenting with AI products to find the "next big thing."
 
 ---
 
