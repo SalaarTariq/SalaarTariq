@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Salaar Tariq
 
-**AI Engineer | Full Stack Developer | LLM Specialist**
+**AI Engineer | Full Stack Developer | Vibe Code**
 
 <p align="left">
   <a href="https://linkedin.com/in/salaartariq"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -14,7 +14,7 @@ I am passionate about building intelligent systems using **Agentic AI**, **Large
 
 - 🤖 **Current Focus:** Developing advanced Voice Agents and Multi-Agent Systems.
 - 🧠 **Expertise:** Deep Learning, NLP, and GenAI Architecture.
-- 🎓 **Learning:** Scaling LLMs and Fine-tuning for domain-specific tasks.
+- 🎓 **Learning:** Scaling LLMs and building products for domain-specific tasks.
 
 ---
 
