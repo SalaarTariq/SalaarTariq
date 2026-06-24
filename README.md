@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Salaar Tariq
 
-**AI Engineer | Full Stack Developer | Vibe Code Specialist**
+**AI Engineer | LLM Resercher Beginner | Vibe Code Specialist**
 
 <p align="left">
   <a href="https://linkedin.com/in/salaartariq"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
