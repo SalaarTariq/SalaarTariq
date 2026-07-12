@@ -9,10 +9,40 @@
 
 ---
 
-### 🚀 About Me
-I am an emerging **AI Engineer** who has transitioned from traditional manual coding to leveraging AI as my primary development partner. I am passionate about building intelligent **Agents**, conversational **Chatbots**, and solving complex **Machine Learning** problems.
+### 👾 Digital Portrait
 
-Currently, I am the **Co-Founder of an AI Startup**, where I lead experimentation and product development. I am focused on building and testing various products, identifying high-potential solutions to enhance and scale them to the next level.
+```text
+                               .,,;;;;;;,,.
+                          .;@@@@@@@@@@@@@@@@@;.
+                       .%@@@@@@@%?::^^::?%@@@@@@@%.
+                    .#@@@@@#:.              .:#@@@@@#.
+                  .%@@@@#.                      .#@@@@%.
+                .#@@@#:                            :#@@@#.
+               :@@@%.     .;i1111111111111i;.      .%@@@:
+              .@@@#     i8@@@@@@@@@@@@@@@@@@@8i      #@@@.
+              %@@%    ;@@@@@@@@@@@@@@@@@@@@@@@@@;    %@@%
+             .@@@.   i@@@@@@@@@@@@@@@@@@@@@@@@@@@i   .@@@.
+             .@@@   .@@@@@@@@@8t;,,,,,;t8@@@@@@@@@.   @@@.
+             .@@@   :@@@@@@@8;            ;8@@@@@@@:  @@@.
+              %@@%  ;@@@@@@@,   .;iiii;.   ,@@@@@@@; %@@%
+              .@@@#  t@@@@@@.  i@@@@@@@@i  .@@@@@@t #@@@.
+               :@@@%. ;@@@@@, .@@@@@@@@@@. ,@@@@@;.%@@@:
+                .#@@@#:;8@@@; ;@@@@@@@@@@; ;@@@8;:#@@@#.
+                  .%@@@@#.i@@t .@@@@@@@@@@. t@@i.#@@@@%.
+                    .#@@@@@#;  ;@@@@@@@@@@;  ;#@@@@@#.
+                       .%@@@@@@8@@@@@@@@@@@@8@@@@@@%.
+                          .;@@@@@@@@@@@@@@@@@@@@@;.
+                               .,:;;;;;;;;;;:,.
+
+                0 1 0 1 0 1   S A L A A R   1 0 1 0 1 0
+```
+
+---
+
+### 🚀 About Me
+I am an emerging **AI Engineer** who has transitioned from traditional manual coding to leveraging AI as my primary development partner. I am passionate about building intelligent **Agents**, conversational AI systems, and impactful GenAI applications.
+
+Currently, I am the **Co-Founder of an AI Startup**, where I lead experimentation and product development. I am focused on building and testing various products, identifying high-potential solutions, and turning ideas into real-world AI experiences.
 
 Beyond building, I am an avid **Hackathon participant**, always eager to learn, collaborate, and push the boundaries of what's possible with AI.
 
