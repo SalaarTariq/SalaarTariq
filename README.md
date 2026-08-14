@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Salaar Tariq
 
-**AI Engineer | LLM Resercher Beginner | Co-Founder**
+**AI Engineer | LLM Researcher Beginner | Co-Founder**
 
 <p align="left">
   <a href="https://linkedin.com/in/salaartariq"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
