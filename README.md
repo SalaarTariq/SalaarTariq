@@ -57,6 +57,6 @@ Beyond building, I am an avid **Hackathon participant**, always eager to learn, 
 ---
 
 <p align="center">
-  <i>"Building the future with one prompt at a time." </i><br>
+  <i>"Building the future with one prompt at a time."</i><br>
   ⭐ <b>Check out my repositories and let's collaborate!</b>
 </p>
