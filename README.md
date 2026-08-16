@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Salaar Tariq
+# 👋 Hi, I'm Muhammad Salaar Tariq
 
 **AI Engineer | LLM Researcher Beginner | Co-Founder**
 
