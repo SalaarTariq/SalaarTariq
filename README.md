@@ -51,7 +51,7 @@ Beyond building, I am an avid **Hackathon participant**, always eager to learn, 
 ### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=SalaarTariq&theme=tokyonight&timezone=Asia%2FKarachi" alt="GitHub Streak" />
+  <a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" /></a>
 </p>
 
 ---
