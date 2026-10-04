@@ -2,11 +2,15 @@ name: Update Streak Stats
 
 on:
   schedule:
-    - cron: "30 4 * * *"
+    - cron: "30 4,16 * * *"
   workflow_dispatch:
 
 permissions:
   contents: write
+
+concurrency:
+  group: streak-stats
+  cancel-in-progress: true
 
 jobs:
   update-streak-stats:
